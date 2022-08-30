@@ -25,8 +25,8 @@ In conclusion, if you're only targeting meat:
   good deal to buy the bone-in skin on.
 - If you need `n` pounds of thigh meat from bone-in skin-on chicken thighs, buy `n ÷ 0.7` pounds.
 
-On the downside, deboning requires time, practice, and perhaps, a boning knife. This is what
-you're paying for in the difference between the two prices.
+On the downside, deboning requires time, practice, and perhaps, a boning knife. This is what you're
+paying for in the difference between the two prices.
 
 But, on the upside, you can hone your knife skills and get some good by-products:
 
@@ -36,3 +36,7 @@ But, on the upside, you can hone your knife skills and get some good by-products
   [cracklings](https://www.lowcarbmaven.com/fried-chicken-skin-cracklings/).
 - With the fat, I render it down in a pan, let it cool, store in a jar in the refrigerator, and then
   use it in place of vegetable oil. (A lot of fat renders when making cracklings.)
+
+All these by-products are actually pretty nice if your home-cooking cuisine calls for them. And, it
+says a lot about this pricing model (and maybe American society?) that they're sold at a
+negative cost.
