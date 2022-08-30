@@ -1,10 +1,12 @@
 # Deboning Chicken Thighs
 
-This is just a note to myself (and maybe others) that when you buy bone-in skin-on chicken thighs,
-your yield of thigh meat will be roughly **70%** of the total weight of the thigh.
+This is just a note to myself (and maybe others) that when you buy bone-in skin-on (BISO) chicken
+thighs, your yield of thigh meat will be roughly **70%** of the total weight of the thigh.
 
-When you're in the grocery store, comparing the price bone-in skin-on chicken to it's boneless
-skinless counterpart is difficult because you do not know how much meat exists in the former.
+When you're in the grocery store, comparing the price BISO chicken thighs to its boneless skinless
+(BLSL) counterpart is difficult because you do not know how much meat exists in the former. And
+almost always, strangely, BISO thighs are cheaper per pound.
+
 Therefore, I performed a test with about 8 pounds and these are my results:
 
 | Product          | Measurement |
@@ -17,12 +19,13 @@ Therefore, I performed a test with about 8 pounds and these are my results:
 | Non-meat / Total | 31.19%      |
 | Meat / Total     | 68.81%      |
 
-The last line there is where "roughly **70%**" from above is derived from.
+The last line there is where "roughly **70%**" from above is derived from. Of course, you may even
+get a different yield depending on your knife skills, time invested, chicken cuts, etc.
 
 In conclusion, if you're only targeting meat:
 
-- If `bone-in skin-on price/pound ÷ 0.7` is less than `boneless skinless price/pound`, then its a a
-  good deal to buy the bone-in skin on.
+- If `BISO price/pound ÷ 0.7` is less than `BLSL price/pound`, then its a a good deal to buy the
+  BISO.
 - If you need `n` pounds of thigh meat from bone-in skin-on chicken thighs, buy `n ÷ 0.7` pounds.
 
 On the downside, deboning requires time, practice, and perhaps, a boning knife. This is what you're
@@ -38,5 +41,5 @@ But, on the upside, you can hone your knife skills and get some good by-products
   use it in place of vegetable oil. (A lot of fat renders when making cracklings.)
 
 All these by-products are actually pretty nice if your home-cooking cuisine calls for them. And, it
-says a lot about this pricing model (and maybe American society?) that they're sold at a
-negative cost.
+says a lot about this pricing model (and maybe American society?) that they're sold at a negative
+cost.
