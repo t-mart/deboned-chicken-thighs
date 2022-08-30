@@ -19,14 +19,14 @@ Therefore, I performed a test with about 8 pounds and these are my results:
 
 The last line there is where "roughly **70%**" from above is derived from.
 
-In conclusion:
+In conclusion, if you're only targeting meat:
 
 - If `bone-in skin-on price/pound ÷ 0.7` is less than `boneless skinless price/pound`, then its a a
   good deal to buy the bone-in skin on.
 - If you need `n` pounds of thigh meat from bone-in skin-on chicken thighs, buy `n ÷ 0.7` pounds.
 
-On the downside, you have to put time into deboning which requires time, some practice, and
-optionally, a boning knife. This is what you're paying for in the difference between the two prices.
+On the downside, deboning requires time, practice, and perhaps, a boning knife. This is what
+you're paying for in the difference between the two prices.
 
 But, on the upside, you can hone your knife skills and get some good by-products:
 
