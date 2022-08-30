@@ -40,6 +40,8 @@ But, on the upside, you can hone your knife skills and get some good by-products
 - With the fat, I render it down in a pan, let it cool, store in a jar in the refrigerator, and then
   use it in place of vegetable oil. (A lot of fat renders when making cracklings.)
 
-All these by-products are actually pretty nice if your home-cooking cuisine calls for them. And, it
-says a lot about this pricing model (and maybe American society?) that they're sold at a negative
-cost.
+These are actually pretty nice if your home-cooking cuisine calls for them.
+
+It's pretty interesting this pricing model values the convenience of BLSL chicken so much that
+something less complete is sold for more money, especially when the chicken farm is double-dipping
+by selling those by-products to someone else.
